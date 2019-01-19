@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project12\project12\source.cpp(9): warning C4101: x: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project12\project12\source.cpp(57): warning C4129: ,: неизвестная escape-последовательность
+c:\users\тимур\source\repos\project12\project12\source.cpp(211): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project12.vcxproj -> C:\Users\Тимур\source\repos\Project12\Debug\Project12.exe
